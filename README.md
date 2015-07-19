@@ -3,7 +3,9 @@
 Supports next routes:
 
 GET /
+
 GET /students
+
 GET /students/:id
 
 POST /students
